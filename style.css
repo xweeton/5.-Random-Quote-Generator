@@ -1,0 +1,51 @@
+#quote-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#click-me {
+  position: fixed;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid black;
+  box-shadow: 2px 2px 3px 2px dimgrey;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+button:hover {
+  transform: translate(1.5px, 2.5px);
+}
+
+#title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 60px;
+  font-style: italic;
+}
+
+#image {
+  width: 150px;
+  height: 200px;
+}
+
+#quote {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#author {
+  font-size: 36px;
+  font-style: italic;
+}
