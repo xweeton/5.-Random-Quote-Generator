@@ -11,15 +11,15 @@ const quotes = [
 ]
 
 const images = [
-  "Nelson_Mandela.jpg",
-  "Walt_Disney.jpeg",
-  "Eleanor_Roosevelt.jpg",
-  "John_Lennon.jpg",
-  "Franklin_D._Roosevelt.jpg",
-  "Robert_Louis_Stevenson.jpg",
-  "Aristotle.jpg",
-  "Maya_Angelou.jpg",
-  "Babe_Ruth.jpg",
+  "./assets/Nelson_Mandela.jpg",
+  "./assets/Walt_Disney.jpeg",
+  "./assets/Eleanor_Roosevelt.jpg",
+  "./assets/John_Lennon.jpg",
+  "./assets/Franklin_D._Roosevelt.jpg",
+  "./assets/Robert_Louis_Stevenson.jpg",
+  "./assets/Aristotle.jpg",
+  "./assets/Maya_Angelou.jpg",
+  "./assets/Babe_Ruth.jpg",
 ]
 
 function setQuote() {
